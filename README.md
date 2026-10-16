@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey There ^-^
 
-<!--
-**ahmed6coder/ahmed6coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👨‍💻
+- Name: Ahmed Almaghrabi
+- Age: 20 Years Old
+- From: Saudi Arabia
+- Role: Front-end Developer && Web/Web App Developer
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">صل على الحبيب قلبك يطيب</p>
