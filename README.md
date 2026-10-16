@@ -13,6 +13,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+### 🌐 Connect with me
+
+<p align="left">
+  <!-- Instagram -->
+  <a href="https://instagram.com/ams111.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/hmdlqdh2" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
 ---
 
 <p align="center">صل على الحبيب قلبك يطيب</p>
